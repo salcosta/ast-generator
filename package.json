@@ -1,0 +1,22 @@
+{
+  "name": "script-generation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "chance": "^1.0.18",
+    "escodegen": "^1.11.0",
+    "estraverse": "^4.2.0",
+    "jsonfn": "^0.31.0",
+    "lodash": "^4.17.11",
+    "random-weighted-choice": "^0.1.3",
+    "randomstring": "^1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
